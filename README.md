@@ -1,2 +1,2 @@
-# pygame-reversi
-A recreation of Reversi that I created in 2018, complete with a functioning AI to play against.
+# Summary
+A recreation of Reversi that I made in 2018 as a freshman in High School. The project contains a barebones UI and AI, and was written using Python and Pygame. In its current state, most features outside of a 1 on 1 Reversi game against a computer are missing. Feel free to view and build on the code, but beware that comments in the code are few and far between, and offer only a surface level description of how the code works. 
